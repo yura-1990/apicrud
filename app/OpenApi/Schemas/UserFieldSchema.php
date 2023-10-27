@@ -23,6 +23,6 @@ class UserFieldSchema extends SchemaFactory implements Reusable
             Schema::string('password')->default(null),
             Schema::string('password_confirmation')->default(null)
         ];
-        return Schema::object('UpdateUserProfile')->properties(...$properties);
+        return Schema::object('UserList')->properties(...$properties);
     }
 }
