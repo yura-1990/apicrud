@@ -26,4 +26,4 @@
 3. [Swagger UI](https://swagger.io/tools/swagger-ui/)
 4. [JWT Auth](https://laravel-jwt-auth.readthedocs.io/en/latest/laravel-installation/)
 
-### I created this project without rote and permission!
+### I created this project without role and permission!
