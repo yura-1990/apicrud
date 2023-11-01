@@ -17,7 +17,8 @@
 5. Run `php artisan jwt:secret`
 6. Run `php artisan migrate`
 7. Run `php artisan serve`
-8. Open [http://localhost:8000](http://localhost:800) in your browser
+8. Run `npm run dev`
+9. Open [http://localhost:8000](http://localhost:8000) in your browser
 
 ### Packages
 
